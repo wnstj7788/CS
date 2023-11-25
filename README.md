@@ -2,4 +2,4 @@
 
 ## Table Of Contents
 
-- [Design Pattern](/DeSignPattern/README.md)
+- [Design Pattern](https://github.com/wnstj7788/CS/tree/main/DesignPattern)
